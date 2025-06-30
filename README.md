@@ -1,4 +1,3 @@
-
 # DocSpot - Seamless Appointment Booking for Health
 
 ## Full Stack Development with MERN
